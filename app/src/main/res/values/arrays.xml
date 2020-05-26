@@ -1,0 +1,47 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="alarm_sounds">
+        <item>Sound 1</item>
+        <item>Sound 2</item>
+        <item>Sound 3</item>
+        <item>Sound 4</item>
+    </string-array>
+    <string-array name="alarm_sound_values">
+        <item>sound_1</item>
+        <item>sound_2</item>
+        <item>sound_3</item>
+        <item>sound_4</item>
+    </string-array>
+
+    <string-array name="reminders">
+        <item>Event Time</item>
+        <item>10 Minutes</item>
+        <item>30 Minutes</item>
+        <item>1 Hours</item>
+        <item>1 Days</item>
+        <item>1 Weeks</item>
+    </string-array>
+    <string-array name="reminder_values">
+        <item>remider_1</item>
+        <item>remider_2</item>
+        <item>remider_3</item>
+        <item>remider_4</item>
+        <item>remider_5</item>
+        <item>remider_6</item>
+    </string-array>
+
+    <string-array name="repeats">
+        <item>None</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+    <string-array name="repeat_values">
+        <item>repeat_1</item>
+        <item>repeat_2</item>
+        <item>repeat_3</item>
+        <item>repeat_4</item>
+        <item>repeat_5</item>
+    </string-array>
+</resources>

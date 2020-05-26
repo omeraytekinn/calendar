@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#600709</color>
+    <color name="colorPrimaryDark">#600709</color>
+    <color name="colorAccent">#600709</color>
+    <color name="softerBlue">#e8f3f7</color>
+    <color name="softBlue">#a5cbd8</color>
+    <color name="white">#fff</color>
+    <color name="grayPrimary">#ddd</color>
+    <color name="graySecondary">#aaa</color>
+        <!-- accent: a5cbd8 -->
+</resources>
