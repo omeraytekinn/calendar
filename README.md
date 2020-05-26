@@ -13,3 +13,6 @@ Missing Major Functions:
 Missing Minor Functions:
 - Circling Events In Calendar View
 - Adding Event Category
+
+
+Basic functioning of application was introduced in video: https://youtu.be/Q-MuNBdY5XU
