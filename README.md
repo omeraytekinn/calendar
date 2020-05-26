@@ -9,6 +9,7 @@ Missing Major Functions:
 - Adding Reminders
 - Changing Sound
 - Changing Theme
+- Getting Event Location
 
 Missing Minor Functions:
 - Circling Events In Calendar View
