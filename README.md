@@ -1,3 +1,5 @@
+![image](https://drive.google.com/uc?export=view&id=1aloe_eHdsXV1rrcOyt2nnFLyC_iAFkxB)
+
 This project not completed yet.
 
 In this project MVC model used. Firstly view part of application was designed. After visual designing layouts of application, content of layouts assigned in controller part. So contents of layout items can be read and edit without much effort. Also transitions between layouts can be easily handled with or without contain parameters.
