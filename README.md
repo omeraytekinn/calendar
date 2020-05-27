@@ -1,5 +1,3 @@
-<img src="first.png" width="250"> <img src="second.png" width="250"> <img src="third.png" width="250">
-
 This project not completed yet.
 
 In this project MVC model used. Firstly view part of application was designed. After visual designing layouts of application, content of layouts assigned in controller part. So contents of layout items can be read and edit without much effort. Also transitions between layouts can be easily handled with or without contain parameters.
@@ -19,3 +17,7 @@ Missing Minor Functions:
 
 
 Basic functioning of application was introduced in video: https://youtu.be/Q-MuNBdY5XU
+
+Some Screenshots Of Application:
+
+<img src="first.png" width="250"> <img src="second.png" width="250"> <img src="third.png" width="250">
