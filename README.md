@@ -1,6 +1,4 @@
-![main] (first.png)
-![main] (second.png)
-![main] (third.png)
+<img src="first.png" width="250"> <img src="second.png" width="250"> <img src="third.png" width="250">
 
 This project not completed yet.
 
