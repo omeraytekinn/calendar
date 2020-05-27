@@ -1,4 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1aloe_eHdsXV1rrcOyt2nnFLyC_iAFkxB" data-canonical-src="https://drive.google.com/uc?export=view&id=1aloe_eHdsXV1rrcOyt2nnFLyC_iAFkxB" width="250" />  <img src="https://drive.google.com/uc?export=view&id=1uHeOWj7V7jMGz2paE6EolS6p4iPXI_f6" data-canonical-src="https://drive.google.com/uc?export=view&id=1uHeOWj7V7jMGz2paE6EolS6p4iPXI_f6" width="250" />   <img src="https://drive.google.com/uc?export=view&id=1A2_Uqvv-UmZZgLTMciT8V7DvEx-KkEXJ" data-canonical-src="https://drive.google.com/uc?export=view&id=1A2_Uqvv-UmZZgLTMciT8V7DvEx-KkEXJ" width="250" /> 
+
 This project not completed yet.
 
 In this project MVC model used. Firstly view part of application was designed. After visual designing layouts of application, content of layouts assigned in controller part. So contents of layout items can be read and edit without much effort. Also transitions between layouts can be easily handled with or without contain parameters.
