@@ -16,7 +16,6 @@ Missing Minor Functions:
 - Adding Event Category
 
 
-Basic functioning of application was introduced in video: https://youtu.be/Q-MuNBdY5XU
 
 Some Screenshots Of Application:
 
